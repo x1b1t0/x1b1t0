@@ -11,17 +11,18 @@
 ## 🌱 Currently Learning  
 - **Penetration testing**  
 - **Python for security**  
-- **Reverse engineering**  
+- **Reverse engineering**
+- **Programming**
 
 ## 💞️ Looking to Collaborate On  
 - **Open-source security projects**  
 - **CTF challenges**  
 
 ## 📫 How to Reach Me  
-- **GitHub & LinkedIn** (Feel free to connect!)  
+- **GitHub & LinkedIn** 
 
 ## 😄 Pronouns  
-- **He/Him** *(or specify your preference)*  
+- **He/Him** 
 
 ## ⚡ Fun Fact  
 I love **breaking things (ethically) to make them stronger!** 🔥  
