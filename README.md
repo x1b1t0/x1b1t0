@@ -27,7 +27,7 @@
 ## ⚡ Fun Fact  
 I love **breaking things (ethically) to make them stronger!** 🔥  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight)
+https://camo.githubusercontent.com/91bb88f77525633730e204c224d47534a86e475a0de2eaae8dd0368d35f0572e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d783162317430267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374266c616e67735f636f756e743d313026686964653d707974686f6e
 
 <!---
 x1b1t0/x1b1t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
