@@ -52,7 +52,7 @@ I love **breaking things (ethically) to make them stronger!** 🔥
 
 ## 📫 Cómo Contactarme  
 - **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tuperfil)
+- **LinkedIn**: [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/))
 
 ## 😄 Pronombres  
 - **Él** 
