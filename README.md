@@ -27,6 +27,7 @@
 ## ⚡ Fun Fact  
 I love **breaking things (ethically) to make them stronger!** 🔥  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight)
 
 <!---
 x1b1t0/x1b1t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
