@@ -63,7 +63,7 @@ I love **breaking things (ethically) to make them stronger!** 🔥
 
 # Mi Perfil de GitHub
 
-![GitHub Stats]((https://camo.githubusercontent.com/ffaa6559ad5ac226c7fc389ab0c3010028e9979d9fd5945cb730abcd7ed0a9f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d783162317430267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374266c616e67735f636f756e743d323026696e636c7564655f616c6c5f636f6d6d6974733d74727565)](https://github.com/x1b1t0/TaskTracker))
+![GitHub Stats]([(https://camo.githubusercontent.com/ffaa6559ad5ac226c7fc389ab0c3010028e9979d9fd5945cb730abcd7ed0a9f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d783162317430267468656d653d746f6b796f6e69676874266c61796f75743d636f6d70616374266c616e67735f636f756e743d323026696e636c7564655f616c6c5f636f6d6d6974733d74727565)](https://github.com/x1b1t0/TaskTracker)](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true))
 
 <!---
 x1b1t0/x1b1t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
