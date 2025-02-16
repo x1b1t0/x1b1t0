@@ -20,7 +20,7 @@
 
 ## 📫 How to Reach Me  
 - **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-- **LinkedIn**: [Linkedin][https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
 
 ## 😄 Pronouns  
 - **He/Him** 
@@ -52,7 +52,8 @@ I love **breaking things (ethically) to make them stronger!** 🔥
 
 ## 📫 Cómo Contactarme  
 - **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-- **LinkedIn**: [LinkedIn][https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
+
 ## 😄 Pronombres  
 - **Él** 
 
@@ -63,9 +64,4 @@ I love **breaking things (ethically) to make them stronger!** 🔥
 
 # Mi Perfil de GitHub
 
-![GitHub Stats]
-[]((https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true)](https://github.com/x1b1t0))
-<!---
-x1b1t0/x1b1t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true)
