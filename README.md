@@ -20,7 +20,6 @@
 
 ## 📫 How to Reach Me  
 - **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
 
 ## 😄 Pronouns  
 - **He/Him** 
@@ -52,7 +51,6 @@ I love **breaking things (ethically) to make them stronger!** 🔥
 
 ## 📫 Cómo Contactarme  
 - **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ivan-vivar-tirado-354445335/)
 
 ## 😄 Pronombres  
 - **Él** 
