@@ -19,10 +19,7 @@
 - **CTF challenges**  
 
 ## 😄 Pronouns  
-- **He/Him** 
-
-## ⚡ Fun Fact  
-I love **ethically breaking things to make them stronger!** 🔥  
+- **He/Him**   
 
 ---
 
