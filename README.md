@@ -18,9 +18,6 @@
 - **Open-source security projects**  
 - **CTF challenges**  
 
-## 📫 How to Reach Me  
-- **GitHub**: [@x1b1t0](https://github.com/x1b1t0)
-
 ## 😄 Pronouns  
 - **He/Him** 
 
