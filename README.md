@@ -22,8 +22,3 @@
 - **He/Him**   
 
 ---
-
-# Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true)
-```` ▋
