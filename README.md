@@ -14,10 +14,8 @@ Cacharreo con Docker, redes y seguridad. Si algo no se rompe, no se aprende.
 
 ---
 
-### 📊 Actividad en GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=x1b1t0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" height="150" alt="Stats" />
-</p>
+### 📊 Stats
+![x1b1t0's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1b1t0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff)
 
 ---
 
