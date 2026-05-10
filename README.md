@@ -1,24 +1,22 @@
-# 💻 Ivan Vivar (x1b1t0)
-### SysAdmin en proceso | Docker, Networking y cacharreo constante
+# 💻 x1b1t0@nexus:~$ ls
 
-![Header](https://capsule-render.vercel.app/render?type=wave&color=0d1117&height=120&section=header&text=x1b1t0@nexus:~$%20ls&fontSize=50&fontAlignY=40&animation=fadeIn)
+**Ivan Vivar** | Administrador de Sistemas en proceso. 
+Cacharreo con Docker, redes y seguridad. Si algo no se rompe, no se aprende.
 
 ---
 
-### 🛠️ Lo que toco a diario
-Básicamente, paso el tiempo configurando servicios y viendo por qué mi red ha decidido dejar de funcionar a las 2 AM.
-
-* **Infraestructura:** Gestionando mi propio nodo (**Nexus Node**) con Docker y Compose V2.
-* **Redes:** Túneles WireGuard para acceso remoto y VPNs.
-* **Sistemas:** Ubuntu Server 24.04 (Noble Numbat).
-* **Automatización:** Scripts en Bash y empezando con Ansible para no repetir comandos como un loco.
+### 🛠️ Stack Tecnológico
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) 
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 
 ---
 
 ### 📊 Actividad en GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=x1b1t0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" height="150" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1b1t0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x1b1t0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" height="150" alt="Stats" />
 </p>
 
 ---
@@ -28,4 +26,4 @@ Básicamente, paso el tiempo configurando servicios y viendo por qué mi red ha 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/x1b1t0)
 
 ---
-> *"Si funciona a la primera, sospecho que algo está mal."*
+*"Si funciona a la primera, sospecho que algo está mal."*
