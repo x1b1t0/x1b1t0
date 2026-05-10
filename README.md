@@ -1,6 +1,6 @@
 # 💻 x1b1t0@nexus:~$ whoami
 
-**Ivan Vivar** | Administrador de Sistemas & Networking
+**Ivan Vivar Tirado** | Administrador de Sistemas & Networking
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
